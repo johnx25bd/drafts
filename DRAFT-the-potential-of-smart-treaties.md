@@ -35,7 +35,8 @@ As it is composed of nation states that do not fully trust each other, the inter
 ## Smart treaties in practice
 
 These questions may be best answered by examining potential use cases. This is far from an exhaustive list. Rather, it is a glance at the areas where smart treaties may create the greatest opportunities for supporting international agreements.
-Environmental monitoring
+
+### Environmental monitoring
 
 The good health of the Earth is necessary for our ability to thrive. We survive because the local environmental conditions to our bodies stay within a range we can tolerate — if we are too hot or too cold or too dry or too wet for too long, we will die. This is true of every living object. We are aware of this, but much of our behavior continues to run counter to this knowledge. We are degrading the environment in an intolerable way.
 
